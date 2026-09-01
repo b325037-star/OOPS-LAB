@@ -1,13 +1,16 @@
-OOP Lab – C++ Programs
+# OOP Lab – C++ Programs
 
-Name: SHIVA SINHA
-ID: B325037
-Branch: Computer Science and Engineering (CSE B2)
-College: International Institute of Information Technology, Bhubaneswar
+
+- **Name:** Shiva Sinha
+- **Student ID:** B325037
+- **COLLEGE:** International Institute of Information Technology Bhubaneswar.
+- **Branch:** CSE B
+- **Year:** 2nd Year
+- **Course:** OBJECT ORIENTED PROGRAMING (OOP) Lab
 
 This repository contains the programs and experiments performed as part of the Object-Oriented Programming (OOP) Lab using C++.
 
-📚 Topics Covered
+## 📚 Topics Covered
 
 - Classes and Objects
 - Constructors and Destructors
@@ -17,11 +20,11 @@ This repository contains the programs and experiments performed as part of the O
 - Friend Functions
 
 
-🛠️ Language Used
+**🛠️ Language Used**
 
 C++
 
-📂 Repository Structure
+**📂 Repository Structure**
 
 Each experiment/program is organized separately for easy understanding and execution.
 
@@ -34,7 +37,7 @@ OOP-Lab/
 ├── Experiment-5/
 └── README.md
 
-▶️ How to Run
+**▶️ How to Run**
 
 1. Clone or download this repository.
 2. Open the required ".cpp" file.
@@ -46,7 +49,7 @@ Example:
 g++ program.cpp -o program
 ./program
 
-🎯 Objective
+## 🎯 Objective
 
 The objective of this repository is to implement and understand fundamental Object-Oriented Programming concepts in C++ through practical programs and laboratory experiments.
 
